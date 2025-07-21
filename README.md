@@ -2,7 +2,6 @@
 
 <img align='right' src='./on_fire.gif' width='350"'/>
 
-![Visitors](https://visitor-badge.lithub.cc/badge?page_id=github.com/lucasrachid)
 [![Linkedin Badge](https://img.shields.io/badge/-lucasrachid-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrachid/)](https://www.linkedin.com/in/lucasrachid/)
 [![Instagram](https://img.shields.io/badge/rachid_martins-c14438?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/rachid_martins)](https://www.instagram.com/rachid_martins/)
 [![GitHub followers](https://img.shields.io/github/followers/lucasrachid?label=Follow&style=social)](https://github.com/lucasrachid/?tab=follow)
